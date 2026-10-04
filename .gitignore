@@ -22,3 +22,4 @@ docker/dags/lake/
 logs/
 
 .env
+GUIDE.md
